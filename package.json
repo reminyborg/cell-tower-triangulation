@@ -4,7 +4,7 @@
   "description": "javascript cell-tower triangulation",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
