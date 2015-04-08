@@ -1,0 +1,26 @@
+{
+  "name": "cell-tower-triangulation",
+  "version": "0.0.0",
+  "description": "javascript cell-tower triangulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reminyborg/cell-tower-triangulation.git"
+  },
+  "keywords": [
+    "cell-tower",
+    "triangulation"
+  ],
+  "author": "Remi Nyborg <remi@nyborg.priv.no>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reminyborg/cell-tower-triangulation/issues"
+  },
+  "homepage": "https://github.com/reminyborg/cell-tower-triangulation",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
