@@ -2,6 +2,7 @@
 Triangulate position based on cell towers position and signal strength.
 
 NB! Limited use in its current state.
+
 ##Use
 
 ```javascript
@@ -16,6 +17,7 @@ var position = cellTri(towers);
 // position = { latitude: *, longitude: * }
 
 ```
+
 
 ##Todo
 
